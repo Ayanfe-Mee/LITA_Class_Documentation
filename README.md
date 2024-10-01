@@ -1,6 +1,13 @@
 # LITA_Class_Documentation
 
 ### Project Title: E_Commerce Sales Analysis
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
 
 ### Project Overview
 This Data Analysis Project aims to generate insight into the sales performance of the E_commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data. 
